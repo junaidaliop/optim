@@ -1,14 +1,7 @@
-# optim: Exploring State-of-the-Art Deep Learning Optimizers
+# Exploring State-of-the-Art Deep Learning Optimizers
 
 ## Overview
 This repository serves as a research playground where I explore, implement, and analyze modern deep learning optimization algorithms. As a graduate student, my focus is on understanding and experimenting with the latest developments in optimization techniques for neural networks.
-
-## Purpose
-This project aims to:
-- Implement and adapt cutting-edge optimization algorithms
-- Provide a comprehensive comparison of different optimizers
-- Document findings and insights from experimental results
-- Create a valuable resource for the deep learning research community
 
 ## Framework
 The primary implementation is in PyTorch, with potential future extensions to JAX. The choice of PyTorch as the main framework is due to its flexibility and widespread adoption in the research community.
